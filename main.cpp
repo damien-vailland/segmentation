@@ -1,10 +1,10 @@
 /****************************************************************************
  *
  *
- * Copyright (C) 2016 Universit� de Rennes 1. All rights reserved.
+ * Copyright (C) 2025 Université de Rennes. All rights reserved.
  *
  * This software was developed at:
- * Universite de Rennes 1
+ * Universite de Rennes
  * Campus Universitaire de Beaulieu
  * 35042 Rennes Cedex
  *
@@ -22,9 +22,9 @@
 /****************************************************************************
  * NOMS - PRENOMS:
  *  - Vailland Damien
- *	- Plessis Axel
+ *  - Plessis Axel
  *
- * Date : 7 novembre
+ * Date : 7 novembre 2024
  *****************************************************************************/
 #include <iostream>
 
